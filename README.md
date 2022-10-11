@@ -8,3 +8,6 @@ numpy 라이브러리 사용 예 - https://gist.github.com/ehpub/42b8f6fe5be8424
 
 pandas 라이브러리 사용 예 - https://gist.github.com/ehpub/a56645ec9d9858514f7a4692fb17cd2c#file--02-pandas-ipynb
 
+matplotlib 라이브러리 사용 예 - https://gist.github.com/ehpub/9306db222a43d69dbf6bd6749a4ecb9c#file--03-matplotlib-ipynb
+
+
