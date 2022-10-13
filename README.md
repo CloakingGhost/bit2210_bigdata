@@ -10,4 +10,6 @@ pandas 라이브러리 사용 예 - https://gist.github.com/ehpub/a56645ec9d9858
 
 matplotlib 라이브러리 사용 예 - https://gist.github.com/ehpub/9306db222a43d69dbf6bd6749a4ecb9c#file--03-matplotlib-ipynb
 
+평가(타이타닉 데이터 분석 및 시각화) - https://gist.github.com/ehpub/abf02ee823c016a0e79b54ff12840d2a#file--04-ipynb
+
 
