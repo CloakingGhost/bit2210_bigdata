@@ -12,4 +12,6 @@ matplotlib 라이브러리 사용 예 - https://gist.github.com/ehpub/9306db222a
 
 평가(타이타닉 데이터 분석 및 시각화) - https://gist.github.com/ehpub/abf02ee823c016a0e79b54ff12840d2a#file--04-ipynb
 
+영상처리 개요 - https://gist.github.com/ehpub/cdf132f3e8e23fd2d36a934e3803f197#file--05-ipynb
+
 
