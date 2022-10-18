@@ -16,4 +16,6 @@ matplotlib 라이브러리 사용 예 - https://gist.github.com/ehpub/9306db222a
 
 Text Mining , Open API - https://gist.github.com/ehpub/787ba9b792ba88df11fec737be57ef3f#file--06-text-mining1-ipynb
 
+머신러닝/딥러닝 하기 전에 가벼우이 - https://gist.github.com/ehpub/f2717d62140b1c888ca580ccd892190e#file--07-ml-ipynb
+
 
